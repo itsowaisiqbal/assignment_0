@@ -13,4 +13,5 @@ Regarding the scene, I did not want to have a wall with 3 NFTs because that woul
 //APK
 
 Please access the build file here - https://drive.google.com/file/d/1Frlml_xuQWQf9HPuwNWyrre6wCgWmwUx/view?usp=sharing
+
 This can be installed directly to the Quest 2 and you can have the experience inside the headset. 
