@@ -9,4 +9,5 @@ I used ChainSafeSDK to fetch the NFT data from the Polygon network and used the 
 Regarding the scene, I did not want to have a wall with 3 NFTs because that would just be a 180 degree experience and not a 6DoF and I always try to give that experience no matter how simple the scene is. A lot more could be done to improve it but this is what I was able to pull off.
 
 //APK
-I have also added the build .apk file in the root folder. It can be installed directly to the Quest 2.
+Please access the build file here - 
+This can be installed directly to the Quest 2 and you can have the experience inside the headset. 
