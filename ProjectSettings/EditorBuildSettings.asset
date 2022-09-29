@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/-- Project --/Scenes/nft_gallery_01.unity
+    guid: b93575c8d0a9a6f4392dcfae8260bfe0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1ae0b611f4952314e93b9af44070ff3e,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7925f5afd930b7848b31fddfb560d0d3,
+      type: 2}
