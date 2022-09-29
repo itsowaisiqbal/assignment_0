@@ -3,6 +3,7 @@
 *Unity 3D NFT Gallery*
 
 //SDKs
+
 I used ChainSafeSDK to fetch the NFT data from the Polygon network and used the Oculus Interaction SDK to interact with the objects. I personally like the Oculus SDK because of the Interaction with Hands. With this project as well I have added functionality of hands and controllers both. 
 
 //Environment
